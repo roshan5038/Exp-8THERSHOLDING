@@ -88,7 +88,7 @@ plt.axis('off')
 
 ### Output – Original Image
 
-<img width="117" height="154" alt="image" src="https://github.com/user-attachments/assets/bdf8bdef-ae23-48c5-8cf4-c6560c12b72f" />
+<img width="105" height="158" alt="image" src="https://github.com/user-attachments/assets/3c1b8237-07e6-4cf2-a5ba-80a07a53d7a8" />
 
 
 ---
@@ -114,7 +114,7 @@ Pixels are classified into two groups based on this fixed threshold.
 
 ### Output – Global Thresholding
 
-<img width="136" height="182" alt="image" src="https://github.com/user-attachments/assets/c0050d6a-3fe6-408c-805d-612f08116f72" />
+<img width="146" height="186" alt="image" src="https://github.com/user-attachments/assets/7328d037-3355-4229-a90a-c0f640289b5f" />
 
 
 ---
@@ -148,7 +148,8 @@ Adaptive thresholding calculates the threshold based on local image regions.
 
 ### Output – Adaptive Thresholding
 
-<img width="161" height="209" alt="image" src="https://github.com/user-attachments/assets/edc74b8a-f4b4-4f70-b37e-9eeb02c1a26d" />
+<img width="148" height="181" alt="image" src="https://github.com/user-attachments/assets/3a8d92fa-bdd4-48c0-8c27-25b07e3bfc42" />
+
 
 
 ---
@@ -170,7 +171,7 @@ The threshold value is set to `0` because Otsu's method automatically determines
 
 ### Output – Otsu's Method
 
-<img width="128" height="189" alt="image" src="https://github.com/user-attachments/assets/31cb3256-addd-4ef1-9790-16fdd3a8dd7d" />
+<img width="124" height="175" alt="image" src="https://github.com/user-attachments/assets/ac727d00-4819-497e-8ee4-6556082ec6b9" />
 
 ---
 
